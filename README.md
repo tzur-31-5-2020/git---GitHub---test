@@ -1,3 +1,3 @@
 # git---GitHub---test
 Tutorial - test
-This is for tutrial reasons.
+This is for tutorial reasons.
